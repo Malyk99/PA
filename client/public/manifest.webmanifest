@@ -1,0 +1,9 @@
+{
+  "name": "PA Assistant",
+  "short_name": "Producción",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f1ea",
+  "theme_color": "#16150f",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
